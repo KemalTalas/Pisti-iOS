@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Target 'Pisti-mobile' in project 'Pisti'
+➜ Explicit dependency on target 'cocos_engine' in project 'Pisti'
+➜ Explicit dependency on target 'boost_container' in project 'Pisti'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'Pisti'
+Target 'cocos_engine' in project 'Pisti'
+➜ Explicit dependency on target 'genbindings' in project 'Pisti'
+➜ Explicit dependency on target 'boost_container' in project 'Pisti'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'Pisti'
+Target 'boost_container' in project 'Pisti' (no dependencies)
+Target 'genbindings' in project 'Pisti'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'Pisti'
+Target 'ZERO_CHECK' in project 'Pisti' (no dependencies)

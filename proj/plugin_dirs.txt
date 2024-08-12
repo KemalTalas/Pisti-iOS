@@ -1,0 +1,3 @@
+# directories for searching native plugins
+/Users/kemal/Desktop/PistiReal/native
+/Users/kemal/Desktop/PistiReal/extensions

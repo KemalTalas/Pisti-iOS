@@ -1,0 +1,9 @@
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/builtin-res.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/cocos_engine.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/genbindings.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/Pisti-mobile.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/ALL_BUILD.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/CMakeFiles/ZERO_CHECK.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/boost/container/CMakeFiles/boost_container.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/boost/container/CMakeFiles/ALL_BUILD.dir
+/Users/kemal/Desktop/PistiReal/build/ios/proj/boost/container/CMakeFiles/ZERO_CHECK.dir
